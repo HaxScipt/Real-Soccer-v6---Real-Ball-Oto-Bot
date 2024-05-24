@@ -1,5 +1,5 @@
 > [!NOTE]
-> Güncelleme detayları ve daha fazlası için Discord'a katılmayı unutmayın. 
+> Güncelleme detayları ve daha fazlası için Discord'a katılmayı unutmayın. [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/haxscipt) 
 
 ### Eklenen sistemler
 
