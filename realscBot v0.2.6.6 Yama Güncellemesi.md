@@ -11,6 +11,8 @@
 
 - Penaltı haritasına gerçek top eklendi.
 
+- !ff veya !surrender yazıp kullanabileceğiniz erkenden teslim olma eklendi. Gereken oy sayısı 5 ve sadece takım için oylanabiliyor.
+
 
 ### Çözülen hatalar
 
