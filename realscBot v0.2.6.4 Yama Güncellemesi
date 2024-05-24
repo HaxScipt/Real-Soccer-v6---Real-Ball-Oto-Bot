@@ -1,0 +1,11 @@
+# - HaxScipt realscBot v0.2.6.4 Yama Güncellemesi (21.03.2024) -
+
++ Asist yapılınca oda çöküyordu sorun giredildi.
+
++ Moderator için eklenen !mban sistemi gerekli işlevini yerine getiremiyordu sorun giderildi.
+
++ Mapler üzerinde (ısınma hariç) optimizasyon sağlandı.
+
++ Bot tarafından yazılan mesajlar güncellendi ve !arayüzrenk ile kendi seçtiğiniz renk ilk gelmesi sağlandı.
+
++ Yeni giren kişiye birden çok karşılama mesajı gönderiyordu sorun giderildi.
