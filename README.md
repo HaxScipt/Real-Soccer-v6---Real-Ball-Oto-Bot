@@ -9,7 +9,7 @@
 
 <!-- Coder Uncle Pic
 <div id="header" align="right">
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 
 
 
@@ -19,8 +19,8 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/aa422c7a-3357-446c-8faf-3225d1af1342" />
-<a href="https://discord.gg/hanzelkaraagac">
+<img align="center" width="400" src="https://github.com/HaxScipt" />
+<a href="https://discord.gg/haxscipt">
 <strong> Click here to join our Discord server ⬅️ </a>
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
